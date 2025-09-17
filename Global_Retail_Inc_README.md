@@ -23,8 +23,11 @@ The goal was to uncover actionable insights that can drive **growth, improve pro
 ---
 
 ## 🖼️ Dashboard Preview
-*(Insert your dashboard screenshot here, e.g. `![Dashboard Screenshot](images/global-retail-dashboard.png)`)*
-  
+<img width="856" height="617" alt="Product Overview1" src="https://github.com/user-attachments/assets/3d401460-1d07-4deb-810f-9bb06667411d" />
+<img width="847" height="615" alt="Customer Overview1" src="https://github.com/user-attachments/assets/9cea2c58-a3f7-42bf-b886-b4329abb178b" />
+<img width="844" height="618" alt="Country Analysis1" src="https://github.com/user-attachments/assets/ec364795-8c4c-484a-80e6-3d7d4f9bce30" />
+  <img width="843" height="619" alt="General Analysis1" src="https://github.com/user-attachments/assets/a50a70c3-ef78-4837-8956-bcb4294834dd" />
+
 ---
 
 ## 📊 Key Metrics
